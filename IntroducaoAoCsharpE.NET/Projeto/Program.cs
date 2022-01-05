@@ -24,6 +24,17 @@ namespace Projeto
             pessoa2.CPF = "987.654.321-00";
             pessoa2.Idade = 18;
 
+            //Testando Interface
+            Animal animal = new Animal();
+
+            animal.Nome = "Macaco";
+            animal.Idade = 15;
+            animal.Dono = "João;";
+            
+            animal.CorrigeNome("Chimpanzé");
+            animal.CorrigeIdade(20);
+            animal.CorrigeDono("Jorge");
+
             Console.WriteLine("Hello World!");
         }
     }
