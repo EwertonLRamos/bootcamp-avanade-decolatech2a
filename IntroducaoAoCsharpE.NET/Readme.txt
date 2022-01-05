@@ -1,1 +1,1 @@
-## Nesse curso foram vistos os principais conceitos e também foi feito um projeto básico em C# e .NET
+# Nesse curso foram vistos os principais conceitos e também foi feito um projeto básico em C# e .NET
