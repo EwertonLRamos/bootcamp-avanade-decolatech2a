@@ -40,7 +40,7 @@ namespace Projeto
             Pessoas person = Pessoas.Ewerton;
             Pessoas pessoas = (Pessoas)1;
 
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Olá mundo!");
         }
     }
 }
