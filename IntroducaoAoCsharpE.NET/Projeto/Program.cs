@@ -35,6 +35,11 @@ namespace Projeto
             animal.CorrigeIdade(20);
             animal.CorrigeDono("Jorge");
 
+            //Testando Enum
+            var pessoa = (Pessoas)0;
+            Pessoas person = Pessoas.Ewerton;
+            Pessoas pessoas = (Pessoas)1;
+
             Console.WriteLine("Hello World!");
         }
     }
