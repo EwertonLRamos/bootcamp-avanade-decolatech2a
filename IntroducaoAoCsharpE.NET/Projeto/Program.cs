@@ -1,5 +1,5 @@
 ﻿using System;
-using Namespace2;
+using Namespace1;
 
 namespace Projeto
 {
@@ -7,11 +7,11 @@ namespace Projeto
     {
         static void Main(string[] args)
         {
-            var classe1 = new Namespace1.Classe1();
-            var classe2 = new Namespace1.Classe2();
-            var classe3 = new Classe3();
-            var classe4 = new Classe4();
-
+            var classe1 = new Classe1();
+            var classe2 = new Classe2();
+            var classe3 = new Namespace2.Classe3();
+            var classe4 = new Namespace2.Classe4();
+            
             Console.WriteLine("Hello World!");
         }
     }
