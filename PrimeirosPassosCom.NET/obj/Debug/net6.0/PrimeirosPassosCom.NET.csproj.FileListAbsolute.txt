@@ -1,0 +1,15 @@
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\PrimeirosPassosCom.NET\bin\Debug\net6.0\PrimeirosPassosCom.NET.exe
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\PrimeirosPassosCom.NET\bin\Debug\net6.0\PrimeirosPassosCom.NET.deps.json
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\PrimeirosPassosCom.NET\bin\Debug\net6.0\PrimeirosPassosCom.NET.runtimeconfig.json
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\PrimeirosPassosCom.NET\bin\Debug\net6.0\PrimeirosPassosCom.NET.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\PrimeirosPassosCom.NET\bin\Debug\net6.0\ref\PrimeirosPassosCom.NET.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\PrimeirosPassosCom.NET\bin\Debug\net6.0\PrimeirosPassosCom.NET.pdb
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\PrimeirosPassosCom.NET\obj\Debug\net6.0\PrimeirosPassosCom.NET.csproj.AssemblyReference.cache
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\PrimeirosPassosCom.NET\obj\Debug\net6.0\PrimeirosPassosCom.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\PrimeirosPassosCom.NET\obj\Debug\net6.0\PrimeirosPassosCom.NET.AssemblyInfoInputs.cache
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\PrimeirosPassosCom.NET\obj\Debug\net6.0\PrimeirosPassosCom.NET.AssemblyInfo.cs
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\PrimeirosPassosCom.NET\obj\Debug\net6.0\PrimeirosPassosCom.NET.csproj.CoreCompileInputs.cache
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\PrimeirosPassosCom.NET\obj\Debug\net6.0\PrimeirosPassosCom.NET.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\PrimeirosPassosCom.NET\obj\Debug\net6.0\ref\PrimeirosPassosCom.NET.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\PrimeirosPassosCom.NET\obj\Debug\net6.0\PrimeirosPassosCom.NET.pdb
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\PrimeirosPassosCom.NET\obj\Debug\net6.0\PrimeirosPassosCom.NET.genruntimeconfig.cache
