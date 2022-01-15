@@ -71,7 +71,7 @@ namespace PrimeirosPassosCom.NET
         {
             while (true)
             {
-                string s = Convert.ToString(Console.ReadLine());
+                var s = Convert.ToString(Console.ReadLine());
 
                 if(string.IsNullOrEmpty(s))
                     break;
