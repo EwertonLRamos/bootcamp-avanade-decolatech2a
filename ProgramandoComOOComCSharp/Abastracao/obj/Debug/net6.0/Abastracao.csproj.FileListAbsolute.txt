@@ -1,0 +1,15 @@
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abastracao\bin\Debug\net6.0\Abastracao.exe
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abastracao\bin\Debug\net6.0\Abastracao.deps.json
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abastracao\bin\Debug\net6.0\Abastracao.runtimeconfig.json
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abastracao\bin\Debug\net6.0\Abastracao.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abastracao\bin\Debug\net6.0\ref\Abastracao.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abastracao\bin\Debug\net6.0\Abastracao.pdb
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abastracao\obj\Debug\net6.0\Abastracao.csproj.AssemblyReference.cache
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abastracao\obj\Debug\net6.0\Abastracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abastracao\obj\Debug\net6.0\Abastracao.AssemblyInfoInputs.cache
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abastracao\obj\Debug\net6.0\Abastracao.AssemblyInfo.cs
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abastracao\obj\Debug\net6.0\Abastracao.csproj.CoreCompileInputs.cache
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abastracao\obj\Debug\net6.0\Abastracao.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abastracao\obj\Debug\net6.0\ref\Abastracao.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abastracao\obj\Debug\net6.0\Abastracao.pdb
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abastracao\obj\Debug\net6.0\Abastracao.genruntimeconfig.cache
