@@ -1,0 +1,15 @@
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\TrabalhandoComArquivos\UtilizandoArquivos\obj\Debug\net6.0\UtilizandoArquivos.csproj.AssemblyReference.cache
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\TrabalhandoComArquivos\UtilizandoArquivos\obj\Debug\net6.0\UtilizandoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\TrabalhandoComArquivos\UtilizandoArquivos\obj\Debug\net6.0\UtilizandoArquivos.AssemblyInfoInputs.cache
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\TrabalhandoComArquivos\UtilizandoArquivos\obj\Debug\net6.0\UtilizandoArquivos.AssemblyInfo.cs
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\TrabalhandoComArquivos\UtilizandoArquivos\obj\Debug\net6.0\UtilizandoArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\TrabalhandoComArquivos\UtilizandoArquivos\bin\Debug\net6.0\UtilizandoArquivos.exe
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\TrabalhandoComArquivos\UtilizandoArquivos\bin\Debug\net6.0\UtilizandoArquivos.deps.json
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\TrabalhandoComArquivos\UtilizandoArquivos\bin\Debug\net6.0\UtilizandoArquivos.runtimeconfig.json
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\TrabalhandoComArquivos\UtilizandoArquivos\bin\Debug\net6.0\UtilizandoArquivos.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\TrabalhandoComArquivos\UtilizandoArquivos\bin\Debug\net6.0\ref\UtilizandoArquivos.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\TrabalhandoComArquivos\UtilizandoArquivos\bin\Debug\net6.0\UtilizandoArquivos.pdb
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\TrabalhandoComArquivos\UtilizandoArquivos\obj\Debug\net6.0\UtilizandoArquivos.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\TrabalhandoComArquivos\UtilizandoArquivos\obj\Debug\net6.0\ref\UtilizandoArquivos.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\TrabalhandoComArquivos\UtilizandoArquivos\obj\Debug\net6.0\UtilizandoArquivos.pdb
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\TrabalhandoComArquivos\UtilizandoArquivos\obj\Debug\net6.0\UtilizandoArquivos.genruntimeconfig.cache
