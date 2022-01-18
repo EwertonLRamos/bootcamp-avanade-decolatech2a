@@ -1,0 +1,15 @@
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Polimorfismo\bin\Debug\net6.0\Polimorfismo.exe
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Polimorfismo\bin\Debug\net6.0\Polimorfismo.deps.json
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Polimorfismo\bin\Debug\net6.0\Polimorfismo.runtimeconfig.json
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Polimorfismo\bin\Debug\net6.0\Polimorfismo.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Polimorfismo\bin\Debug\net6.0\ref\Polimorfismo.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Polimorfismo\bin\Debug\net6.0\Polimorfismo.pdb
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Polimorfismo\obj\Debug\net6.0\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Polimorfismo\obj\Debug\net6.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Polimorfismo\obj\Debug\net6.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Polimorfismo\obj\Debug\net6.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Polimorfismo\obj\Debug\net6.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Polimorfismo\obj\Debug\net6.0\Polimorfismo.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Polimorfismo\obj\Debug\net6.0\ref\Polimorfismo.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Polimorfismo\obj\Debug\net6.0\Polimorfismo.pdb
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Polimorfismo\obj\Debug\net6.0\Polimorfismo.genruntimeconfig.cache
