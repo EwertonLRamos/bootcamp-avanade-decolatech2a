@@ -5,6 +5,14 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abastracao", "Abastracao\Abastracao.csproj", "{74EB471C-A9C3-4CF8-9160-EDDF062B91B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamento", "Encapsulamento\Encapsulamento.csproj", "{AAAD3392-62DC-4611-9BA8-CDE3ABA22DDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{336C94C3-65AF-49DE-9A09-C41EF110A799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{E9C4279A-6213-4D10-8007-A640DE6D864E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{380F5A23-104B-46A7-8624-CBAF7226B73A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +26,21 @@ Global
 		{74EB471C-A9C3-4CF8-9160-EDDF062B91B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74EB471C-A9C3-4CF8-9160-EDDF062B91B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74EB471C-A9C3-4CF8-9160-EDDF062B91B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAAD3392-62DC-4611-9BA8-CDE3ABA22DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAAD3392-62DC-4611-9BA8-CDE3ABA22DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAAD3392-62DC-4611-9BA8-CDE3ABA22DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAAD3392-62DC-4611-9BA8-CDE3ABA22DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{336C94C3-65AF-49DE-9A09-C41EF110A799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336C94C3-65AF-49DE-9A09-C41EF110A799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336C94C3-65AF-49DE-9A09-C41EF110A799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336C94C3-65AF-49DE-9A09-C41EF110A799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9C4279A-6213-4D10-8007-A640DE6D864E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C4279A-6213-4D10-8007-A640DE6D864E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C4279A-6213-4D10-8007-A640DE6D864E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C4279A-6213-4D10-8007-A640DE6D864E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{380F5A23-104B-46A7-8624-CBAF7226B73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380F5A23-104B-46A7-8624-CBAF7226B73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380F5A23-104B-46A7-8624-CBAF7226B73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380F5A23-104B-46A7-8624-CBAF7226B73A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
