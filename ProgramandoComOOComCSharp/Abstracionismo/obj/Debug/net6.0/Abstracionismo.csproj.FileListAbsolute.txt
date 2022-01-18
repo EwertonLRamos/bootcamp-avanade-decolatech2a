@@ -1,0 +1,15 @@
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abstracionismo\obj\Debug\net6.0\Abstracionismo.csproj.AssemblyReference.cache
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abstracionismo\obj\Debug\net6.0\Abstracionismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abstracionismo\obj\Debug\net6.0\Abstracionismo.AssemblyInfoInputs.cache
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abstracionismo\obj\Debug\net6.0\Abstracionismo.AssemblyInfo.cs
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abstracionismo\obj\Debug\net6.0\Abstracionismo.csproj.CoreCompileInputs.cache
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abstracionismo\bin\Debug\net6.0\Abstracionismo.exe
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abstracionismo\bin\Debug\net6.0\Abstracionismo.deps.json
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abstracionismo\bin\Debug\net6.0\Abstracionismo.runtimeconfig.json
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abstracionismo\bin\Debug\net6.0\Abstracionismo.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abstracionismo\bin\Debug\net6.0\ref\Abstracionismo.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abstracionismo\bin\Debug\net6.0\Abstracionismo.pdb
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abstracionismo\obj\Debug\net6.0\Abstracionismo.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abstracionismo\obj\Debug\net6.0\ref\Abstracionismo.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abstracionismo\obj\Debug\net6.0\Abstracionismo.pdb
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ProgramandoComOOComCSharp\Abstracionismo\obj\Debug\net6.0\Abstracionismo.genruntimeconfig.cache
