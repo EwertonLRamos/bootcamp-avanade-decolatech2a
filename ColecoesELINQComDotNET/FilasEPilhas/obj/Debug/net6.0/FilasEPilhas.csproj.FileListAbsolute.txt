@@ -1,0 +1,15 @@
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ColecoesELINQComDotNET\FilasEPilhas\bin\Debug\net6.0\FilasEPilhas.exe
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ColecoesELINQComDotNET\FilasEPilhas\bin\Debug\net6.0\FilasEPilhas.deps.json
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ColecoesELINQComDotNET\FilasEPilhas\bin\Debug\net6.0\FilasEPilhas.runtimeconfig.json
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ColecoesELINQComDotNET\FilasEPilhas\bin\Debug\net6.0\FilasEPilhas.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ColecoesELINQComDotNET\FilasEPilhas\bin\Debug\net6.0\ref\FilasEPilhas.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ColecoesELINQComDotNET\FilasEPilhas\bin\Debug\net6.0\FilasEPilhas.pdb
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ColecoesELINQComDotNET\FilasEPilhas\obj\Debug\net6.0\FilasEPilhas.csproj.AssemblyReference.cache
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ColecoesELINQComDotNET\FilasEPilhas\obj\Debug\net6.0\FilasEPilhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ColecoesELINQComDotNET\FilasEPilhas\obj\Debug\net6.0\FilasEPilhas.AssemblyInfoInputs.cache
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ColecoesELINQComDotNET\FilasEPilhas\obj\Debug\net6.0\FilasEPilhas.AssemblyInfo.cs
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ColecoesELINQComDotNET\FilasEPilhas\obj\Debug\net6.0\FilasEPilhas.csproj.CoreCompileInputs.cache
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ColecoesELINQComDotNET\FilasEPilhas\obj\Debug\net6.0\FilasEPilhas.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ColecoesELINQComDotNET\FilasEPilhas\obj\Debug\net6.0\ref\FilasEPilhas.dll
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ColecoesELINQComDotNET\FilasEPilhas\obj\Debug\net6.0\FilasEPilhas.pdb
+C:\Users\Ewerton Lucas\source\repos\BootcampAvanade\ColecoesELINQComDotNET\FilasEPilhas\obj\Debug\net6.0\FilasEPilhas.genruntimeconfig.cache
